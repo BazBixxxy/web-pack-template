@@ -2,7 +2,7 @@
   "name": "web-pack-template",
   "version": "1.0.0",
   "description": "A general web pack template to be used for front-end development",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve"
